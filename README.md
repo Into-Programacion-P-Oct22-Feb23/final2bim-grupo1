@@ -1,4 +1,5 @@
 # 2 Bimestre
+Cristian Espinosa-Alex Sanchez
 ## Proyecto Java
 
 ***
